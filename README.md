@@ -5,6 +5,7 @@ Your provided steps for installing and running the "Study Notion" project locall
 # Study Notion
 
 Study Notion is a web application for organizing and managing study materials, video lectures.
+Link->https://studynotion-frontend.vercel.app/
 
 ## Installation
 
